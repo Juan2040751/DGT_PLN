@@ -1,0 +1,13 @@
+Nombre_modelo,Max_lenght,precision,recall,accuracy,F1-score,epochs,batch_size,función_activación,embedding
+modelo 1,200,"64,70%","61,60%","99,00%","63,10%",50,128,relu,n/a
+modelo 2,50,"71,80%","63,40%","96,60%","67,30%",50,128,relu,word2vec
+modelo 2,50,"66,60%","65,30%","96,60%","66,00%",50,128,relu,fasttext
+modelo 2,150,69.8%,63.4%,98.9%,66.5%,50,128,relu,word2vec
+modelo 2,50,"69,50%","63,10%","96,70%","66,20%",25,128,relu,word2vec
+modelo 2,50,"39,10%","39,60%","94,10%","39,30%",60,128,softmax,word2vec
+modelo 3,50,"67,40%","65,30%","96,60%","66,40%",50,128,relu,word2vec
+modelo 3,50,"65,00%","66,10%","96,50%","65,50%",50,128,relu,fasttext
+modelo 3,150,"65,80%","64,00%","98,70%","64,90%",50,128,relu,word2vec
+modelo 3,50,"68,90%","64,60%","96,60%","66,70%",25,128,relu,word2vec
+modelo 3,50,"36,40%","40,70%","94,10%","38,40%",60,128,softmax,word2vec
+roberta-base-bne-capitel-ner,n/a,"86,40%","88,10%","97,8","87,30%",5,8,n/a,n/a

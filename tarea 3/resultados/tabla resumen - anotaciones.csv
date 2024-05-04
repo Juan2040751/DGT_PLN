@@ -1,0 +1,46 @@
+Anotación,Nombre_modelo
+La    federación    Nacional    de     cafeteros    de     Colombia    es    dirigida    por    Horacio    Sánchez,modelo 1 prueba 1
+O     B-ORG         I-ORG       I-ORG  I-ORG        I-ORG  I-LOC       O     O           O      -PAD-      -PAD-,
+y    se    ubica    en    las    ciudades    de    Cali    y    Medellín    con    el    instituto    colombiano    del    café,
+O    O     O        O     O      O           O     O       O    O           O      O     -PAD-        O             -PAD-  -PAD-,
+La    federación    Nacional    de     cafeteros    de     Colombia    es    dirigida    por    Horacio    Sánchez,Modelo 2 prueba 1
+O     B-ORG         I-ORG       I-ORG  I-ORG        I-ORG  I-ORG       O     O           O      O          B-PER,
+y    se    ubica    en    las    ciudades    de     Cali    y    Medellín    con    el    instituto    colombiano    del    café,
+O    O     O        O     O      O           I-LOC  I-LOC   O    O           O      O     O            O             O      B-LOC,
+La    federación    Nacional    de     cafeteros    de     Colombia    es    dirigida    por    Horacio    Sánchez,Modelo 2 prueba 2
+"O     B-ORG         I-ORG       I-ORG  I-ORG        I-ORG  I-ORG       O     O           O      -PAD-      -PAD-
+",
+y    se    ubica    en    las    ciudades    de    Cali    y    Medellín    con    el    instituto    colombiano    del    café,
+O    O     O        O     O      O           O     B-LOC   O    O           O      O     O            O             O      O,
+La     federación    Nacional    de     cafeteros    de     Colombia    es     dirigida    por    Horacio    Sánchez,Modelo 2 prueba 3
+I-ORG  I-PER         B-MISC      I-ORG  I-PER        -PAD-  B-LOC       B-ORG  I-PER       -PAD-  B-LOC      B-ORG,
+y      se     ubica    en     las    ciudades    de     Cali    y      Medellín    con    el     instituto    colombiano    del    café,
+I-ORG  I-PER  -PAD-    B-LOC  B-ORG  I-LOC       B-ORG  I-LOC   B-ORG  I-PER       -PAD-  B-LOC  B-ORG        I-LOC         B-ORG  -PAD-,
+La     federación    Nacional    de     cafeteros    de     Colombia    es     dirigida    por    Horacio    Sánchez,Modelo 2 prueba 4
+O     B-ORG         I-ORG       I-ORG  I-ORG        I-ORG  I-ORG       O     O           O      -PAD-      B-PER,
+y      se     ubica    en     las    ciudades    de     Cali    y      Medellín    con    el     instituto    colombiano    del    café,
+O    O     O        O     O      O           O     B-LOC   O    O           O      O     O            O             O      O,
+La     federación    Nacional    de     cafeteros    de     Colombia    es     dirigida    por    Horacio    Sánchez,Modelo 2 prueba 5
+O      B-ORG      I-ORG  I-ORG  I-ORG  I-ORG  I-ORG      O        O        O      B-PER    I-PER,
+y      se     ubica    en     las    ciudades    de     Cali    y      Medellín    con    el     instituto    colombiano    del    café,
+O     O       O      O     O        O           O   B-ORG O        O         O    O         O              O           O     -PAD-,
+La    federación    Nacional    de     cafeteros    de     Colombia    es    dirigida    por    Horacio    Sánchez,Modelo 3 prueba 1
+O     B-ORG         I-ORG       I-ORG  I-ORG        I-ORG  I-ORG       O     O           O      -PAD-      -PAD-,
+y    se    ubica    en    las    ciudades    de    Cali    y    Medellín    con    el    instituto    colombiano    del    café,
+O    O     O        O     O      O           O     B-LOC   O    O           O      O     O            O             O      O,
+La    federación    Nacional    de     cafeteros    de     Colombia    es    dirigida    por    Horacio    Sánchez,Modelo 3 prueba 2
+O     B-ORG         I-ORG       I-ORG  I-ORG        I-ORG  I-ORG       O     O           O      O          -PAD-,
+y    se    ubica    en    las    ciudades    de    Cali    y    Medellín    con    el    instituto    colombiano    del    café,
+O    O     O        O     O      O           O     B-LOC   O    O           O      O     B-ORG        O             O      O,
+La    federación    Nacional    de     cafeteros    de     Colombia    es    dirigida    por    Horacio    Sánchez,Modelo 3 prueba 3
+O     B-ORG         I-ORG       I-ORG  I-ORG        I-ORG  I-ORG       O     O           O      -PAD-      -PAD-,
+y    se    ubica    en    las    ciudades    de    Cali    y    Medellín    con    el    instituto    colombiano    del    café,
+O    O     O        O     O      O           O     O       O    O           O      O     O            O             -PAD-  -PAD-,
+La     federación    Nacional    de     cafeteros    de     Colombia    es     dirigida    por    Horacio    Sánchez,Modelo 3 prueba 4
+O      B-ORG      I-ORG  I-ORG  I-ORG  I-ORG  I-ORG      O       O         O     -PAD-      -PAD-,
+y      se     ubica    en     las    ciudades    de     Cali    y      Medellín    con    el     instituto    colombiano    del    café,
+O     O       O      O     O          O         O  B-LOC O        O          O    O         O             O            O       O,
+La     federación    Nacional    de     cafeteros    de     Colombia    es     dirigida    por    Horacio    Sánchez,Modelo 3 prueba 5
+O      B-ORG      I-ORG  I-ORG  I-ORG  I-ORG  I-ORG      O      O           O       O        B-ORG,
+y      se     ubica    en     las    ciudades    de     Cali    y      Medellín    con    el     instituto    colombiano    del    café,
+O    O      O        O     O       O           O  B-ORG O  B-ORG      O     O    B-ORG         O            O   B-ORG,
